@@ -12,10 +12,5 @@ Esse array deve estar nas seguintes condições:
  - Dias que não tem recebimento nem investimento devem ficar com valor 0.0;
  - Em dias que existes mais de uma movimentação os valores devem ser somados;
 
-Realize a implementação das funções:
- - mount_investments: função responsável por inserir os investimentos dentro do cashflow;
- - mount_installments: função responsável por inserir as parcelas dentro do cashflow;
-Se necessário, sinta-se live para criar outras funções e modificar o código já existente.
-
 
 https://warren.com.br/magazine/taxa-interna-de-retorno-tir/
