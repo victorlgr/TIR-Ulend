@@ -14,3 +14,15 @@ Esse array deve estar nas seguintes condições:
 
 
 https://warren.com.br/magazine/taxa-interna-de-retorno-tir/
+
+Para instalar as bibliotecas necessárias:
+
+```
+pip install -r requirements.txt
+```
+
+Para executar o app:
+
+```
+python main.py
+```
